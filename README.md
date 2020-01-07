@@ -8,15 +8,7 @@ Portable Version: There is a standalone portable version if you want to quickly 
 Simply download the zip file from the repo, and run Game_of_Life.exe
 
 
-
-     _____          __  __ ______         ____  ______         _      _____ ______ ______
-    / ____|   /\   |  \/  |  ____|       / __ \|  ____|       | |    |_   _|  ____|  ____|
-   | |  __   /  \  | \  / | |__         | |  | | |__          | |      | | | |__  | |__
-   | | |_ | / /\ \ | |\/| |  __|        | |  | |  __|         | |      | | |  __| |  __|
-   | |__| |/ ____ \| |  | | |____       | |__| | |            | |____ _| |_| |    | |____
-    \_____/_/    \_\_|  |_|______|       \____/|_|            |______|_____|_|    |______|
-
-
+GAME OF LIFE:
 "Game of life" is a computer simulation of John Conway's original 1970 concept for the game.
 The rules for how the game works can be viewed upon launching the game.
 This program implements SFML to easily create a graphical user interface for the game to be played
