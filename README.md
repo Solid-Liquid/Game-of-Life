@@ -41,8 +41,7 @@ to redesign my code to adjust which cells are being looked at as "neighbors". Th
 the cell you should be looking at is out of bounds (a position of -1 or over max value for an array) and
 then adjusting the array coordinates to be looking at the opposite side of the grid.
 Overall, sfml really made this project easy to come together. The graphics library had all I needed and
-managing a window is really easy with the Renderwindow object. You can use limitframerate() to change
-the speed of your game in a simple way, and it's very simple to figure out what other functions do what
+managing a window is really easy with the Renderwindow object. It's very simple to figure out what other functions do what
 because they all have pretty straightforward names. I also only had to use one rectangle object for my
 entire grid. This was easy to accomplish because I just had to keep changing the position of the shape
 in a loop and then change which squares get printed in green to represent live cells. The SFML tutorials
